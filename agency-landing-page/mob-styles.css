@@ -1,0 +1,208 @@
+@media screen and (max-width: 800px) {  
+  
+  header {
+    height: 35rem;
+    display: flex;
+    background-image: url("images/mobile/image-header.jpg");
+    flex-direction: column;
+    row-gap: 5rem;
+  }
+
+  .navigation {
+    width: 80%;
+    height: 20rem;
+    background-color: white;
+    margin: 0;
+    padding: 2rem 0;
+    flex-direction: column;
+    justify-content: space-around;
+    row-gap: 1rem;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, 20%);
+    z-index: 99;
+  }
+
+  .navigation::before {
+    content: "";
+    border-bottom: 100px solid white;
+    border-left: 100px solid transparent;
+    position: absolute;
+    top: -10%;
+    right: 0%;
+  }
+  
+  .navigation > div {
+    font-size: 1.2rem;
+    font-weight: 700; 
+    color: var(--neutral-grayish-blue);
+  } 
+  
+    .navigation > .contact {
+    background-color: var(--primary-yellow);
+    transition: none;
+  } 
+  
+    .navigation > .contact:hover {
+    background-color: var(--primary-yellow);
+    color: black;
+  } 
+  
+  .header-content {
+    max-width: 7ch;
+    font-size: 2.2rem;
+    margin: 0;
+    padding: 0;
+    margin-inline: auto;
+  }
+  
+  header > img {
+    height: 7rem;
+    transform: translate(50%, 20%);
+  }
+  
+  .transform {
+    flex-direction: column-reverse;
+    height: fit-content;
+  }
+
+  .standout {
+    flex-direction: column;
+    height: fit-content;
+  }
+  
+  .gp-container {
+    height: 90rem;
+    display: grid;
+  }
+  
+  .transform-left,.transform-right,
+  .standout-left, .standout-right,
+  .graphics, .photography {
+    width: 100%;
+  }
+  
+  .transform-heading,
+  .standout-heading {
+    max-width:12ch;
+    text-align: center;
+    font-size: 2rem;
+    margin-inline: auto;
+    margin-top: 3rem;
+  }
+  
+  .transform-content,
+  .standout-content {
+    text-align: center;
+    max-width: 31ch;
+    margin: 0;
+  }
+  
+  .learn {
+    margin: 2rem;
+    margin-bottom: 4rem;
+    text-align: center;
+  }
+  
+  .learn > hr {
+    margin: 0;
+    margin-top: -6px;
+    margin-left: 63px;
+  }
+  
+  .graphics {
+    background: url('images/mobile/image-graphic-design.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .photography {
+    background: url('images/mobile/image-photography.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .graphics, 
+  .photography {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+  }
+  
+  .graphics-container,
+  .photography-container {
+    width: 95%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 25%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+  }
+  
+  
+  
+  .photography-heading,
+  .graphics-heading {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+  }
+  
+  .photography-content,
+  .graphics-content {
+    max-width: 40ch;
+  }
+  
+  .client {
+    height: 78rem;
+    row-gap: 4rem;
+  }
+  
+  .client-heading {
+    font-size: 1rem;
+    text-align: center;
+  }
+  
+  .client-container {
+    flex-direction: column;
+  }
+  
+  .client-summary {
+    max-width: 32ch;
+  }
+  
+  .clients {
+    row-gap: 2rem;
+    margin-bottom: 4rem;
+  }
+  
+  .gallery {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  
+  .gallery > section {
+    max-width: 100%;
+  }
+  
+  .gallery > section > img {
+    object-fit: cover;
+  }
+
+  footer {
+    height: 20rem;
+  }
+
+  .mv-none {
+    display: none;
+  }
+
+  .dv-none {
+    display: block;
+  }
+}
