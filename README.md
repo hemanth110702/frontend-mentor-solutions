@@ -26,12 +26,12 @@ This table summarizes the challenges I have completed. Each solution is organize
   </tr>
   <tr>
     <td> 
-      <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H" target="_blank" > 
-        <b>QR code component</b>
+      <a href="" target="_blank" > 
+        <b>[QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H){:target="_blank"}</b>
       </a> 
     </td>
     <td>
-      <a href="https://github.com/hemanth110702/qr-code-challenge">
+      <a href="./qr-code-component/">
         <b>Codebase</b>
       </a>
     </td>
@@ -48,12 +48,12 @@ This table summarizes the challenges I have completed. Each solution is organize
       </a> 
     </td>
     <td>
-      <a href="https://github.com/hemanth110702/frontend-mentor-solutions/tree/main/space-tourism-multipage-website">
-        <b>Codebase</b>
+      <a href="./space-tourism-multipage-website/">
+        <b>Codebase</b> 
       </a>
     </td>
     <td>
-      <a href="https://hemanth110702.github.io/space-tourism-practise-challenge//" target="_blank">
+      <a href="https://hemanth110702.github.io/space-tourism-practise-challenge/" target="_blank">
         <b>space-tourism--multipage-website-live</b>
       </a>
     </td>
@@ -65,7 +65,7 @@ This table summarizes the challenges I have completed. Each solution is organize
       </a> 
     </td>
     <td>
-      <a href="https://github.com/hemanth110702/frontend-mentor-solutions/tree/main/faq-accordian-card">
+      <a href="./faq-accordian-card/">
         <b>Codebase</b>
       </a>
     </td>
@@ -82,7 +82,7 @@ This table summarizes the challenges I have completed. Each solution is organize
       </a> 
     </td>
     <td>
-      <a href="https://github.com/hemanth110702/frontend-mentor-solutions/tree/main/rock-paper-scissors-game">
+      <a href="./rock-paper-scissors-game/">
         <b>Codebase</b>
       </a>
     </td>
@@ -99,7 +99,7 @@ This table summarizes the challenges I have completed. Each solution is organize
       </a> 
     </td>
     <td>
-      <a href="https://github.com/hemanth110702/frontend-mentor-solutions/tree/main/clipboard-landing-page">
+      <a href="./clipboard-landing-page/">
         <b>Codebase</b>
       </a>
     </td>
@@ -116,7 +116,7 @@ This table summarizes the challenges I have completed. Each solution is organize
       </a> 
     </td>
     <td>
-      <a href="https://github.com/hemanth110702/frontend-mentor-solutions/tree/main/manage-landing-page">
+      <a href="./manage-landing-page/">
         <b>Codebase</b>
       </a>
     </td>
@@ -128,12 +128,12 @@ This table summarizes the challenges I have completed. Each solution is organize
   </tr> 
   <tr>
     <td> 
-      <a href="https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef" target="_blank" > 
+      <a href="https://www.frontendmentor.io/challenges/agency-landing-page-7yVs3B6ef" target="_blank" > 
         <b>Agency Landing Page</b>
       </a> 
     </td>
     <td>
-      <a href="https://github.com/hemanth110702/frontend-mentor-solutions/tree/main/agency-landing-page">
+      <a href="./agency-landing-page/">
         <b>Codebase</b>
       </a>
     </td>
@@ -146,7 +146,6 @@ This table summarizes the challenges I have completed. Each solution is organize
 </table>
 
 ---
-
 ## Skills & Learning Outcomes
 
 Through these challenges, I have evolved from basic layouts to complex, state-managed applications.
@@ -166,10 +165,10 @@ Through these challenges, I have evolved from basic layouts to complex, state-ma
 
 ## Technologies Used
 
-![HTML5](https://img.shields.io)
-![CSS3](https://img.shields.io)
-![JavaScript](https://img.shields.io)
-![Git](https://img.shields.io)
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Git**
 
 ---
 
