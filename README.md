@@ -29,7 +29,7 @@ This table summarizes the challenges I have completed. Each solution is organize
   <tr>
     <td> 
       <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H" target="_blank" > 
-        <b>[QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)</b>
+        <b>QR code component</b>
       </a> 
     </td>
     <td>
