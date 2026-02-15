@@ -18,6 +18,8 @@ A collection of all my frontend challenges from Frontend Mentor, showcasing my j
 
 This table summarizes the challenges I have completed. Each solution is organized into its own directory.
 
+> ℹ️ Note: Use **Ctrl + Click** (Windows/Linux) or **Cmd + Click** (Mac) to open links in a new tab.
+
 <table>
   <tr>
     <th>Challenge</th>
@@ -26,8 +28,8 @@ This table summarizes the challenges I have completed. Each solution is organize
   </tr>
   <tr>
     <td> 
-      <a href="" target="_blank" > 
-        <b>[QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H){:target="_blank"}</b>
+      <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H" target="_blank" > 
+        <b>[QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)</b>
       </a> 
     </td>
     <td>
