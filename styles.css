@@ -1,0 +1,59 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(17, 16, 46);
+  color: white;
+}
+
+h1 {
+  font-family: monospace;
+}
+
+#fm-profile {
+  margin: 20px;
+}
+
+tbody > tr {
+  margin: 5px;
+}
+
+th {
+  text-align: left;
+  font-family: "Montserrat", sans-serif;
+  padding: 10px;
+  background-color: brown;
+}
+
+td {
+  text-align: left;
+  padding: 5px;
+  font-family:
+    "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans",
+    Arial, sans-serif;
+  padding: 10px;
+}
+
+td:hover {
+  background-color: green;
+}
+
+tr {
+  background-color: rgb(45, 106, 204);
+  transition: background-color 0.35s ease-in-out;
+}
+
+tr:hover {
+  background-color: rgb(23, 49, 90);
+}
+
+a {
+  color: white;
+}
+
+#tech {
+  font-style: italic;
+  font-weight: bold;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
