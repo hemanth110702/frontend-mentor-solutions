@@ -42,10 +42,10 @@ Users should be able to:
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/hemanth110702/faq-accordion-card-challenge/assets/89832451/3aaa3472-4da0-4d04-a2a2-6d9e810f87cf" width="100%" title="Desktop view - Home"/>
+            <img src="./Screenshots Preview/Desktop View - Home.png" width="100%" title="Desktop view - Home"/>
         </td>
         <td>
-            <img src="https://github.com/hemanth110702/faq-accordion-card-challenge/assets/89832451/471e4173-75a4-460e-b409-66d22f26fec6" width="100%" title="Mobile view - Home"/>
+            <img src="./Screenshots Preview/Mobile view - Home.jpeg" width="100%" title="Mobile view - Home"/>
         </td>
     </tr>
     <tr>
@@ -53,29 +53,18 @@ Users should be able to:
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/hemanth110702/faq-accordion-card-challenge/assets/89832451/2b454e55-5688-42af-95a6-6d4ba8de726f" width="100%" title="Desktop view - Active"/>
+            <img src="./Screenshots Preview/Desktop View - Active.png" width="100%" title="Desktop view - Active"/>
         </td>
         <td>
-            <img src="https://github.com/hemanth110702/faq-accordion-card-challenge/assets/89832451/ac7b7e71-fbb2-4f78-b796-22263c157e6c" width="100%" title="Mobile view - Active"/>
-        </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="text-align: left;font-weight: bold;">Onclick</td>
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github.com/hemanth110702/faq-accordion-card-challenge/assets/89832451/da9f02c1-97ea-4846-b50e-b9241f10a701" width="100%" title="Desktop view - Onclick"/>
-        </td>
-        <td>
-            <img src="https://github.com/hemanth110702/faq-accordion-card-challenge/assets/89832451/a682aaac-d702-46d3-b524-03681986f26e" width="100%" title="Mobile view - Onclick"/>
+            <img src="./Screenshots Preview/Mobile view - Active.jpeg" width="100%" title="Mobile view - Active"/>
         </td>
     </tr>
 </table>
 
 ## Links
 
-- [Solution](https://github.com/hemanth110702/faq-accordion-card-challenge)
-- [Live Page](https://hemanth110702.github.io/faq-accordion-card-challenge/)
+- [Solution](https://github.com/hemanth110702/frontend-mentor-solutions/tree/main/faq-accordian-card)
+- [Live Page](https://hemanth110702.github.io/frontend-mentor-solutions/faq-accordian-card/index.html)
 
 
 ## My process

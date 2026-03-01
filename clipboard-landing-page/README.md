@@ -41,10 +41,10 @@ Users should be able to:
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/hemanth110702/clipboard-landing-page-challenge/assets/89832451/c21ab75a-d15c-4f0d-a090-f9afb03ac37f" width="100%" title="Desktop view - Home"/>
+            <img src="./Screenshots Preview/Desktop view - Home.png" width="100%" title="Desktop view - Home"/>
         </td>
         <td>
-            <img src="https://github.com/hemanth110702/clipboard-landing-page-challenge/assets/89832451/b4dd7bec-5d4d-4232-aba3-f87499d16688" width="100%" title="Mobile view - Home"/>
+            <img src="./Screenshots Preview/Mobile view - Home.jpeg" width="100%" title="Mobile view - Home"/>
         </td>
     </tr>
     <tr>
@@ -52,10 +52,10 @@ Users should be able to:
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/hemanth110702/clipboard-landing-page-challenge/assets/89832451/8bc571e2-2043-4414-9d9c-a11974296afb" width="100%" title="Desktop view - Features"/>
+            <img src="./Screenshots Preview/Desktop view - Feature.png" width="100%" title="Desktop view - Features"/>
         </td>
         <td>
-            <img src="https://github.com/hemanth110702/clipboard-landing-page-challenge/assets/89832451/252c1d53-9b7d-4ad8-8e18-6ed4ef16ca53" width="100%" title="Mobile view - Features"/>
+            <img src="./Screenshots Preview/Mobile view - Features.jpeg" width="100%" title="Mobile view - Features"/>
         </td>
     </tr>
     <tr>
@@ -63,10 +63,10 @@ Users should be able to:
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/hemanth110702/clipboard-landing-page-challenge/assets/89832451/8d59dde4-18cc-45df-b210-fb3af2f5ce7f" width="100%" title="Desktop view - Devices"/>
+            <img src="./Screenshots Preview/Desktop view - Access.png" width="100%" title="Desktop view - Devices"/>
         </td>
         <td>
-            <img src="https://github.com/hemanth110702/clipboard-landing-page-challenge/assets/89832451/a96dad9c-5e7b-41eb-bb15-12cba69ca14b" width="100%" title="Mobile view - Devices"/>
+            <img src="./Screenshots Preview/Mobile view - Access.jpeg" width="100%" title="Mobile view - Devices"/>
         </td>
     </tr>
     <tr>
@@ -74,21 +74,21 @@ Users should be able to:
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/hemanth110702/clipboard-landing-page-challenge/assets/89832451/f3858055-0325-4eb8-a72c-1b57efb25737" width="100%" title="Desktop view - Workflow"/>
+            <img src="./Screenshots Preview/Desktop view - workflow.png" width="100%" title="Desktop view - Workflow"/>
         </td>
         <td>
-            <img src="https://github.com/hemanth110702/clipboard-landing-page-challenge/assets/89832451/e4200056-5393-48cc-b93a-5829c0e13dd8" width="100%" title="Mobile view - Workflow"/>
+            <img src="./Screenshots Preview/Mobile view - workflow.jpeg" width="100%" title="Mobile view - Workflow"/>
         </td>
     </tr>
     <tr>
-      <td colspan="2" style="text-align: left;font-weight: bold;">Clipboard - footer</td>
+      <td colspan="2" style="text-align: left;font-weight: bold;">Clipboard - download</td>
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/hemanth110702/clipboard-landing-page-challenge/assets/89832451/b06cf830-20c1-431f-a0c9-0db0a0b3afbd" width="100%" title="Desktop view - Clipboard"/>
+            <img src="./Screenshots Preview/Desktop view - download.png" width="100%" title="Desktop view - Clipboard"/>
         </td>
         <td>
-            <img src="https://github.com/hemanth110702/clipboard-landing-page-challenge/assets/89832451/6400315f-119a-4b90-bee8-0341367b6c93" width="100%" title="Mobile view - Clipboard"/>
+            <img src="./Screenshots Preview/Mobile view - download.jpeg" width="100%" title="Mobile view - Clipboard"/>
         </td>
     </tr>
     <tr>
@@ -96,18 +96,18 @@ Users should be able to:
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/hemanth110702/clipboard-landing-page-challenge/assets/89832451/b06cf830-20c1-431f-a0c9-0db0a0b3afbd" width="100%" title="Desktop view - Clipboard"/>
+            <img src="./Screenshots Preview/Desktop view - footer.png" width="100%" title="Desktop view - Clipboard"/>
         </td>
         <td>
-            <img src="https://github.com/hemanth110702/clipboard-landing-page-challenge/assets/89832451/8901fcf1-fdeb-4e72-a98c-f2af102eb16a" width="100%" title="Mobile view - Clipboard"/>
+            <img src="./Screenshots Preview/Moblie view - Footer.jpeg" width="100%" title="Mobile view - Clipboard"/>
         </td>
     </tr>
 </table>
 
 ## Links
 
-- [Solution](https://github.com/hemanth110702/clipboard-landing-page-challenge)
-- [Live Page](https://hemanth110702.github.io/clipboard-landing-page-challenge/)
+- [Solution](https://github.com/hemanth110702/frontend-mentor-solutions/tree/main/clipboard-landing-page)
+- [Live Page](https://hemanth110702.github.io/frontend-mentor-solutions/clipboard-landing-page/index.html)
 
 ## My process
 

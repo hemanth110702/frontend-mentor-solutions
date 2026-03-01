@@ -32,18 +32,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/hemanth110702/qr-code-challenge/assets/89832451/38d14b2f-4a3b-4d71-9064-5d6172ca8100" width="100%" title="Desktop view - Home"/>
+            <img src="./Screenshots Preview/Desktop view - Home.png" width="100%" title="Desktop view - Home"/>
         </td>
         <td>
-            <img src="https://github.com/hemanth110702/qr-code-challenge/assets/89832451/ae57cbf8-7355-4251-9c6c-c9d1bd4671928" width="100%" title="Mobile view - Home"/>
+            <img src="./Screenshots Preview/Mobile view - Home.jpeg" width="100%" title="Mobile view - Home"/>
         </td>
     </tr>
 </table>
 
 ## Links
 
-- [Solution](https://github.com/hemanth110702/qr-code-challenge)
-- [Live Page](https://hemanth110702.github.io/qr-code-challenge/)
+- [Solution](https://github.com/hemanth110702/frontend-mentor-solutions/tree/main/qr-code-component)
+- [Live Page](https://hemanth110702.github.io/frontend-mentor-solutions/qr-code-component/index.html)
 
 ## My process
 

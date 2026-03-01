@@ -42,10 +42,10 @@ Users should be able to:
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/hemanth110702/space-tourism-practise-challenge/assets/89832451/4b5e78d7-9516-4c42-aa9a-d351767315b3" width="100%" title="Desktop view - Home"/>
+            <img src="./Screenshots Preview/Desktop view - Home Page.png" width="100%" title="Desktop view - Home"/>
         </td>
         <td>
-            <img src="https://github.com/hemanth110702/space-tourism-practise-challenge/assets/89832451/829a7de3-559e-41ea-b5d8-2995f863eee9" width="100%" title="Mobile view - Home"/>
+            <img src="./Screenshots Preview/Mobile view - Home Page.jpeg" width="100%" title="Mobile view - Home"/>
         </td>
     </tr>
     <tr>
@@ -53,10 +53,10 @@ Users should be able to:
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/hemanth110702/space-tourism-practise-challenge/assets/89832451/d44cbce0-145a-4239-a157-92dce847e24e" width="100%" title="Desktop view - Destination"/>
+            <img src="./Screenshots Preview/Desktop view - Destination Page.png" width="100%" title="Desktop view - Destination"/>
         </td>
         <td>
-            <img src="https://github.com/hemanth110702/space-tourism-practise-challenge/assets/89832451/17d17e61-8082-4a8b-a6aa-3892014ae08d" width="100%" title="Mobile view - Destination"/>
+            <img src="./Screenshots Preview/Mobile view - Destination Page.jpeg" width="100%" title="Mobile view - Destination"/>
         </td>
     </tr>
     <tr>
@@ -64,10 +64,10 @@ Users should be able to:
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/hemanth110702/space-tourism-practise-challenge/assets/89832451/7e1d562e-7652-45ee-86ba-633d03e326f8" width="100%" title="Desktop view - Crew"/>
+            <img src="./Screenshots Preview/Desktop view - Crew Page.png" width="100%" title="Desktop view - Crew"/>
         </td>
         <td>
-            <img src="https://github.com/hemanth110702/space-tourism-practise-challenge/assets/89832451/3f3e4703-665b-45e4-aee3-e1dc235a1279" width="100%" title="Mobile view - Crew"/>
+            <img src="./Screenshots Preview/Mobile view - Crew Page.jpeg" width="100%" title="Mobile view - Crew"/>
         </td>
     </tr>
     <tr>
@@ -75,18 +75,18 @@ Users should be able to:
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/hemanth110702/space-tourism-practise-challenge/assets/89832451/633fd8bb-9453-48c7-9df4-bd1887aba87b" width="100%" title="Desktop view - Home"/>
+            <img src="./Screenshots Preview/Desktop view - Technology Page.png" width="100%" title="Desktop view - Home"/>
         </td>
         <td>
-            <img src="https://github.com/hemanth110702/space-tourism-practise-challenge/assets/89832451/2f7e7848-1710-4713-a10e-5939b795f0ea" width="100%" title="Mobile view - Home"/>
+            <img src="./Screenshots Preview/Mobile view - Technology Page.jpeg" width="100%" title="Mobile view - Home"/>
         </td>
     </tr>
 </table>
 
 ## Links
 
-- [Solution](https://github.com/hemanth110702/space-tourism-practise-challenge)
-- [Live Page](https://hemanth110702.github.io/space-tourism-practise-challenge/)
+- [Solution](https://github.com/hemanth110702/frontend-mentor-solutions/tree/main/space-tourism-multipage-website)
+- [Live Page](https://hemanth110702.github.io/frontend-mentor-solutions/space-tourism-multipage-website/index.html)
 
 
 ## My process

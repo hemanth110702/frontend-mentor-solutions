@@ -41,10 +41,10 @@ Users should be able to:
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/hemanth110702/sunnyside-agency-landing-page-challenge/assets/89832451/310dff9d-ba66-4ed1-b175-c5d4699f5451" width="100%" title="Desktop view - Home"/>
+            <img src="./Screenshots Preview/Desktop view - Intro.png" width="100%" title="Desktop view - Home"/>
         </td>
         <td>
-            <img src="https://github.com/hemanth110702/sunnyside-agency-landing-page-challenge/assets/89832451/62368564-d03f-4c16-a858-1dde75a54811" width="100%" title="Mobile view - Home"/>
+            <img src="./Screenshots Preview/Mobile view - Intro.jpeg" width="100%" title="Mobile view - Home"/>
         </td>
     </tr>
     <tr>
@@ -52,10 +52,10 @@ Users should be able to:
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/hemanth110702/sunnyside-agency-landing-page-challenge/assets/89832451/b8c02ca3-cb66-4323-8d77-49cc30881b37" width="100%" title="Desktop view - Transform"/>
+            <img src="./Screenshots Preview/Desktop view - Transform.png" width="100%" title="Desktop view - Transform"/>
         </td>
         <td>
-            <img src="https://github.com/hemanth110702/sunnyside-agency-landing-page-challenge/assets/89832451/44b06a2e-aed4-4466-8260-1c1e9dfce1ff" width="100%" title="Mobile view - Transform"/>
+            <img src="./Screenshots Preview/Mobile view - Transform.jpeg" width="100%" title="Mobile view - Transform"/>
         </td>
     </tr>
     <tr>
@@ -63,10 +63,10 @@ Users should be able to:
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/hemanth110702/sunnyside-agency-landing-page-challenge/assets/89832451/431ea855-b1a5-403e-bd21-1f2f9a646c52" width="100%" title="Desktop view - Standout"/>
+            <img src="./Screenshots Preview/Desktop view - Standout.png" width="100%" title="Desktop view - Standout"/>
         </td>
         <td>
-            <img src="https://github.com/hemanth110702/sunnyside-agency-landing-page-challenge/assets/89832451/b89dc79b-6996-4bec-8272-7d4bd5679fe9" width="100%" title="Mobile view - Standout"/>
+            <img src="./Screenshots Preview/Mobile view - Standout.jpeg" width="100%" title="Mobile view - Standout"/>
         </td>
     </tr>
     <tr>
@@ -74,10 +74,10 @@ Users should be able to:
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/hemanth110702/sunnyside-agency-landing-page-challenge/assets/89832451/20f6f9d5-321d-4aa2-97bc-23b7bca5ff3b" width="100%" title="Desktop view - graphic design"/>
+            <img src="./Screenshots Preview/Desktop view - GDP.png" width="100%" title="Desktop view - graphic design"/>
         </td>
         <td>
-            <img src="https://github.com/hemanth110702/sunnyside-agency-landing-page-challenge/assets/89832451/85cbefaf-470c-4b61-b952-d6ce79beccfd" width="100%" title="Mobile view - graphic design"/>
+            <img src="./Screenshots Preview/Mobile view - GD.jpeg" width="100%" title="Mobile view - graphic design"/>
         </td>
     </tr>
     <tr>
@@ -85,10 +85,10 @@ Users should be able to:
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/hemanth110702/sunnyside-agency-landing-page-challenge/assets/89832451/20f6f9d5-321d-4aa2-97bc-23b7bca5ff3b" width="100%" title="Desktop view - Photography"/>
+            <img src="./Screenshots Preview/Desktop view - GDP.png" width="100%" title="Desktop view - Photography"/>
         </td>
         <td>
-            <img src="https://github.com/hemanth110702/sunnyside-agency-landing-page-challenge/assets/89832451/5a26033e-e7eb-4c14-8316-1589143025ea" width="100%" title="Mobile view - Photography"/>
+            <img src="./Screenshots Preview/Mobile view - Photography.jpeg" width="100%" title="Mobile view - Photography"/>
         </td>
     </tr>
     <tr>
@@ -96,10 +96,10 @@ Users should be able to:
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/hemanth110702/sunnyside-agency-landing-page-challenge/assets/89832451/6954689c-bda6-411f-8d9a-494d65b5717a" width="100%" title="Desktop view - Clients"/>
+            <img src="./Screenshots Preview/Desktop view - Review.png" width="100%" title="Desktop view - Clients"/>
         </td>
         <td>
-            <img src="https://github.com/hemanth110702/sunnyside-agency-landing-page-challenge/assets/89832451/1d78db23-4a42-4d63-b407-3cdb287a5fdd" width="100%" title="Mobile view - Clients"/>
+            <img src="./Screenshots Preview/Mobile view - Review.jpeg" width="100%" title="Mobile view - Clients"/>
         </td>
     </tr>
     <tr>
@@ -107,17 +107,17 @@ Users should be able to:
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/hemanth110702/sunnyside-agency-landing-page-challenge/assets/89832451/bd32cd58-6f00-4fcf-8942-47e8b60d87d8" width="100%" title="Desktop view - Footer"/>
+            <img src="./Screenshots Preview/Desktop view - Footer.png" width="100%" title="Desktop view - Footer"/>
         </td>
         <td>
-            <img src="https://github.com/hemanth110702/sunnyside-agency-landing-page-challenge/assets/89832451/0ddba67f-9acb-4182-9d7e-40d09dd9d44d" width="100%" title="Mobile view - Footer"/>
+            <img src="./Screenshots Preview/Mobile view - Footer.jpeg" width="100%" title="Mobile view - Footer"/>
         </td>
     </tr>
 </table>
 
 ## Links
 
-- [Solution](https://github.com/hemanth110702/sunnyside-agency-landing-page-challenge)
+- [Solution](https://github.com/hemanth110702/frontend-mentor-solutions/tree/main/agency-landing-page)
 - [Live Page](https://hemanth110702.github.io/sunnyside-agency-landing-page-challenge/)
 
 ## My process
