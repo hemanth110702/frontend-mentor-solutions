@@ -4,6 +4,9 @@
 
 This is a solution to the [Space tourism website challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3).
 
+- [Live Site](https://hemanth110702.github.io/frontend-mentor-solutions/space-tourism-multipage-website/index.html)
+- [Code](https://github.com/hemanth110702/frontend-mentor-solutions/tree/main/space-tourism-multipage-website)
+
 <details>
 <summary>Table of contents</summary>
 

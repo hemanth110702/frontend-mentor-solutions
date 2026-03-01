@@ -4,6 +4,9 @@
 
 This is a solution to the [Manage landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5).
 
+- [Live Site](https://hemanth110702.github.io/frontend-mentor-solutions/manage-landing-page/index.html)
+- [Code](https://github.com/hemanth110702/frontend-mentor-solutions/tree/main/manage-landing-page)
+
 <details>
 <summary>Table of contents</summary>
 

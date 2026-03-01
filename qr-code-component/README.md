@@ -4,6 +4,9 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
+- [Live Site](https://hemanth110702.github.io/frontend-mentor-solutions/qr-code-component/index.html)
+- [Code](https://github.com/hemanth110702/frontend-mentor-solutions/tree/main/qr-code-component)
+
 <details>
 <summary>Table of contents</summary>
 

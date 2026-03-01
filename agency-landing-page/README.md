@@ -4,6 +4,9 @@
 
 This is a solution to the [Sunnyside agency landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/agency-landing-page-7yVs3B6ef).
 
+- [Live Site](https://hemanth110702.github.io/sunnyside-agency-landing-page-challenge/)
+- [Code](https://github.com/hemanth110702/frontend-mentor-solutions/tree/main/agency-landing-page)
+
 <details>
 <summary>Table of contents</summary>
 

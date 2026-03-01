@@ -4,6 +4,9 @@
 
 This is a solution to the [Rock, Paper, Scissors challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH).
 
+- [Live Site](https://hemanth110702.github.io/frontend-mentor-solutions/rock-paper-scissors-game/index.html)
+- [Code](https://github.com/hemanth110702/frontend-mentor-solutions/tree/main/rock-paper-scissors-game)
+
 <details>
 <summary>Table of contents</summary>
 
