@@ -40,7 +40,7 @@ This table summarizes the challenges I have completed. Each solution is organize
       </a>
     </td>
     <td>
-      <a href="https://hemanth110702.github.io/qr-code-challenge/" target="_blank">
+      <a href="https://hemanth110702.github.io/frontend-mentor-solutions/qr-code-challenge/" target="_blank">
         <b>qr-code-component-live</b>
       </a>
     </td>
@@ -57,7 +57,7 @@ This table summarizes the challenges I have completed. Each solution is organize
       </a>
     </td>
     <td>
-      <a href="https://hemanth110702.github.io/space-tourism-practise-challenge/" target="_blank">
+      <a href="https://hemanth110702.github.io/frontend-mentor-solutions/space-tourism-practise-challenge/" target="_blank">
         <b>space-tourism--multipage-website-live</b>
       </a>
     </td>
@@ -74,7 +74,7 @@ This table summarizes the challenges I have completed. Each solution is organize
       </a>
     </td>
     <td>
-      <a href="https://hemanth110702.github.io/faq-accordion-card-challenge/" target="_blank">
+      <a href="https://hemanth110702.github.io/frontend-mentor-solutions/faq-accordion-card-challenge/" target="_blank">
         <b>faq-accordian-card-live</b>
       </a>
     </td>
@@ -91,7 +91,7 @@ This table summarizes the challenges I have completed. Each solution is organize
       </a>
     </td>
     <td>
-      <a href="https://hemanth110702.github.io/rock-paper-scissors-challenge/" target="_blank">
+      <a href="https://hemanth110702.github.io/frontend-mentor-solutions/rock-paper-scissors-challenge/" target="_blank">
         <b>rock-paper-scissors-game-live</b>
       </a>
     </td>
@@ -108,7 +108,7 @@ This table summarizes the challenges I have completed. Each solution is organize
       </a>
     </td>
     <td>
-      <a href="https://hemanth110702.github.io/clipboard-landing-page-challenge/" target="_blank">
+      <a href="https://hemanth110702.github.io/frontend-mentor-solutions/clipboard-landing-page-challenge/" target="_blank">
         <b>clipboard-landing-page-live</b>
       </a>
     </td>
@@ -125,7 +125,7 @@ This table summarizes the challenges I have completed. Each solution is organize
       </a>
     </td>
     <td>
-      <a href="https://hemanth110702.github.io/manage-landing-page-challenge/" target="_blank">
+      <a href="https://hemanth110702.github.io/frontend-mentor-solutions/manage-landing-page-challenge/" target="_blank">
         <b>manage-landing-page-live</b>
       </a>
     </td>
@@ -142,7 +142,7 @@ This table summarizes the challenges I have completed. Each solution is organize
       </a>
     </td>
     <td>
-      <a href="https://hemanth110702.github.io/sunnyside-agency-landing-page-challenge/" target="_blank">
+      <a href="https://hemanth110702.github.io/frontend-mentor-solutions/sunnyside-agency-landing-page-challenge/" target="_blank">
         <b>agency-landing-page-live</b>
       </a>
     </td>
